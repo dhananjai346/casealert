@@ -1,10 +1,10 @@
-
+python-telegram-bot==20.3
+apscheduler==3.10.1
 requests
 schedule
 pyotp
 telethon
-python-telegram-bot==20.3
-apscheduler==3.10.1
+
 
 
 
